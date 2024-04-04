@@ -1,0 +1,141 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "0019a6b9-6245-4ac1-add8-c957bfd02490",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hello data science world!!\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Hello data science world!!\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "dea78276-4166-4ed5-a97b-22ae7156d5bd",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Machine Learning\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Machine Learning\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "a5cb4086-04de-4cb4-8354-03556597cb40",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Ikedinachi Nwakanma\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Ikedinachi Nwakanma\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e5de59b0-b445-44fa-b912-3c06cf6c9e31",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "To add a cell above press Esc+A\n",
+    "To add a cell below press Esc+B\n",
+    "To delete a cell press Ecs+D+D"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6949b21c-8eb9-41eb-8909-24e1caac5341",
+   "metadata": {},
+   "source": [
+    "10+25"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "c2c5020b-2000-40dd-af92-4d8eee8f7ae1",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "1"
+      ]
+     },
+     "execution_count": 8,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "25-24"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "9d0e59df-2238-4c10-9cf2-4d6a0cfb0f8b",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "6.0"
+      ]
+     },
+     "execution_count": 9,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "24/4"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
